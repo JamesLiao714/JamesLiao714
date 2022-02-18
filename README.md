@@ -1,5 +1,5 @@
 ### What's up 👋 
-![Visitor Count](https://komarev.com/ghpvc/?username=JamesLiao714&color=green&label=Profile+Viewers+since+2022/01/29)
+![Visitor Count](https://komarev.com/ghpvc/?username=JamesLiao714&color=green&label=Profile+Viewers+2022)
 
 This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth of the year at NTUST. I am currently working on a M.S. degree of computer science at [National Tsing Hua University](https://www.nthu.edu.tw/), supervised by Professor [Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/). Our lab specializes in computer vision, including few-shot deteaction, human activity detection and 3D face team, while I am also specialized in NLP domain. I used to wrok as a RD inten in [TSMC](https://www.tsmc.com/english). If you have any question about me, please don't hestitate to contact me via email or social media.
 
