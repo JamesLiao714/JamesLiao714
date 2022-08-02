@@ -3,14 +3,14 @@
 
 This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth of the year at NTUST. I am currently working on a M.S. degree of computer science at [National Tsing Hua University](https://www.nthu.edu.tw/), supervised by Professor [Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/). If you feel like knowing me better, this is my [linkedin](https://www.linkedin.com/in/jamesliao714/) account and [instagram](https://www.instagram.com/jjj_liao/?fbclid=IwAR3mk59apPBZOoriyTDC8h06QHH0U62PdJ2h_kgLl_kOd31E4oLelVrvt8w) account.
 
-#### My Internship:
--  Research Assitant, Acedemia sinica (CVML LAB)
--  AI engineer, TSMC (MTRDP)
-
 #### My research topics:
 - Muti-object tracking (MOT)
 - Multi-camera MOT
 - Re-identification
+
+#### My Internship:
+-  Research Assitant, Acedemia sinica (CVML LAB)
+-  AI engineer, TSMC (MTRDP)
  
 #### My publications and awards:
 - ACCV 2022 (pending)
