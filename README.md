@@ -11,6 +11,7 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
 #### 😎 My Internship:
 -  Research Assistant, Acedemia sinica (CVML LAB)
 -  AI engineer, TSMC (MTRDP) 
+-  Research Assistant, NTUST (Game Lab)
  
 #### 🤙 My publications and awards:
 - ACCV 2022 (pending)
