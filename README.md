@@ -15,7 +15,9 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
  
 #### 🤙 My publications and awards:
 - ACCV 2022 (pending)
-- AI CUP 2021 innovation award and excellent award
+- AI Accelerators Certificate of Excellent Performance (issued by Dr. H. T. Kung, Harvard University)
+- AI CUP 2021 (won innovation award and excellent award)
+- Kaggle IoT Data Analytics : Traffic prediction (won second place)
 
 ---
 
