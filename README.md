@@ -9,10 +9,9 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
 - Re-identification
 
 #### 😎 My WORKING EXPERIENCE:
--  AI engineer, MediaTek (RDSS) 
--  Research Assistant, Acedemia sinica (CVML LAB)
--  AI engineer, TSMC (MTRDP) 
--  Research Assistant, NTUST (Game Lab)
+-  AI engineer, **MediaTek (RDSS) **
+-  Research Assistant, **Acedemia sinica (CVML LAB)**
+-  AI engineer, **TSMC (MTRDP)** 
  
 #### 🤙 My publications and awards:
 - ROBUST MULTI-OBJECT TRACKING WITH SPATIAL UNCERTAINTY	**(ICASSP2023 Oral)**
