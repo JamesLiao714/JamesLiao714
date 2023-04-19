@@ -8,7 +8,8 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
 - Multi-camera MOT
 - Re-identification
 
-#### 😎 My Internship:
+#### 😎 My WORKING EXPERIENCE:
+-  AI engineer, MediaTek (RDSS) 
 -  Research Assistant, Acedemia sinica (CVML LAB)
 -  AI engineer, TSMC (MTRDP) 
 -  Research Assistant, NTUST (Game Lab)
