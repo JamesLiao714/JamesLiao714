@@ -18,7 +18,7 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
 - AI Accelerators Certificate of Excellent Performance (issued by Dr. H. T. Kung, Harvard University)
 - AI CUP 2021 (won **innovation award and excellent award**)
 - Kaggle IoT Data Analytics : Traffic prediction (won second place)
-
+ 
 ---
 
 <img  src="https://github-readme-stats.vercel.app/api?username=JamesLiao714&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="left" >
