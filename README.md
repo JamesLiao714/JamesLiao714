@@ -9,7 +9,7 @@ This is [James Liao](https://jamesliao714.github.io/), former Outstanding Youth 
 - Re-identification
 
 #### 😎 My WORKING EXPERIENCE:
--  AI engineer, **MediaTek (RDSS) **
+-  AI engineer, **MediaTek (RDSS)**
 -  Research Assistant, **Acedemia sinica (CVML LAB)**
 -  AI engineer, **TSMC (MTRDP)** 
  
